@@ -1,0 +1,25 @@
+h1 {
+    text-shadow: -5px -5px 5px rgb(218, 44, 44);
+}
+
+h2 {
+    text-shadow: -5px -5px 5px rgb(20, 119, 211) ;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    color: #000;
+}
+
+.titulo {
+    text-shadow: -5px -5px 5px rgb(144, 38, 214);
+}
+
+.texto {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: right;
+    color: blueviolet;
+}

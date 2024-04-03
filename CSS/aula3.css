@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 
 body {
-    background-color: rgb(41, 185, 221);
+    background-color: rgb(104, 218, 89);
     font-family: "Oswald", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
 }
 
 h1 {
-    background-color: #05DBF2;
+    background-color: #55993a;
     text-align: center;
     font-size: 20px;
     color: #000000;
@@ -18,5 +18,5 @@ p {
     font-style: italic;
     text-align: justify;
     font-size: 20px;
-    color: rgba(130, 32, 196, 0.61);
+    color: rgba(3, 126, 40, 0.61);
 }

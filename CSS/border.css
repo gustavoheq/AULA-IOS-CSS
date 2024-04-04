@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Yarndings+12&display=swap');
+
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+h1 {
+    border-top: 5px dashed lawngreen;
+    border-right: 10px dotted brown;
+    border-bottom: 20px solid blue ;
+    border-left: 5px double cadetblue;
+}
+
+h2 {
+    border: 5px solid blueviolet;
+    border-radius: 10px;
+}
+
+table {
+    border: 5px double black;
+    border-radius: 5px;
+}
+
+th {
+    border: 2px dotted red;
+    border-radius: 5px;
+}
+
+td {
+    border: 2px  solid black;
+    border-radius: 5px;
+}

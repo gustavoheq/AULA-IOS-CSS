@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Reddit+Mono:wght@200..900&display=swap');
+
+body {
+    background-color: silver;
+}
+
+h1 {
+    text-shadow: 5px 5px 5px blue;
+    text-align: center;
+}
+
+h2.class2 {
+    color: coral;
+}
+
+p {
+    line-height: 150%;
+    font-family: "Reddit Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+p.justify {
+    font-size: 20px;
+    text-align: justify;
+}
+
+span {
+    color: blueviolet;
+}

@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Yarndings+12&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: silver;
+}
+
+.nameClass2 {
+    color: khaki;
+    background-color: tomato;
+}
+
+#nameClass {
+    color: yellow;
+    background-color: cadetblue;
+}
+
+article p {
+    font-family: "Yarndings 12", system-ui;
+    background-color: #b15d14;
+    color: black;
+}

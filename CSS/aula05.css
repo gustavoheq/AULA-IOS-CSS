@@ -1,0 +1,15 @@
+body {
+    background-image: url(/IMG/lus.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+p {
+    text-align: justify;
+    line-height: 200%;
+}
+
+section {
+    height: 100vh;
+}

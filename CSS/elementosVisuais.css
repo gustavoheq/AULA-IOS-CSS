@@ -1,0 +1,11 @@
+body {
+    background-image: url(../IMG/go.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+section {
+    height: 100vh;
+
+}

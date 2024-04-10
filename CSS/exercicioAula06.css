@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
+* {
+    background-color: whitesmoke;
+    font-family: "Tilt Neon", sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    text-shadow: -10px -10px -10px rgb(28, 204, 228);
+    font-size: 40px;
+
+}
+
+a {
+    background-color: blue;
+    color: blueviolet;
+}
+
+p {
+    text-align: justify;
+}

@@ -1,0 +1,26 @@
+* {
+    margin: 5px;
+    color: whitesmoke;
+}
+
+h1 {
+    color: black;
+}
+
+.box1 {
+    background-color: red;
+    width: 20vw;
+    height: 25vh;
+}
+
+.box2 {
+    background-color: green;
+    width: 20vw;
+    height: 25vh;
+}
+
+.box3 {
+    background-color: blue;
+    width: 20vw;
+    height: 25vh;
+}

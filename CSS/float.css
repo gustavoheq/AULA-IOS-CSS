@@ -9,15 +9,32 @@ h1 {
 }
 .container {
     background-color: black;
-    color: aliceblue;
+    color: rgb(11, 136, 245);
     margin: 15px;
     padding: 15px;
-    border: 3px dotted rgb(10, 224, 206);
+    border: 3px dotted rgb(10, 128, 224);
     overflow: auto;
 }
 
 .container img {
-    width: 50vw;
-    height: 50vh;
+    width: 200px;
     float: right;
+}
+
+.div2 {
+    border: 2px solid rgb(7, 7, 233);
+    padding: 10px;
+    margin: 15px;
+}
+
+.p1 {
+    padding: 10px;
+    color: white;
+    background-color: green;
+}
+
+.p2 {
+    padding: 10px;
+    color: white;
+    background-color: tomato;
 }

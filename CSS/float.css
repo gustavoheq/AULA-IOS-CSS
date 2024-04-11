@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+}
+.container {
+    background-color: black;
+    color: aliceblue;
+    margin: 15px;
+    padding: 15px;
+    border: 3px dotted rgb(10, 224, 206);
+    overflow: auto;
+}
+
+.container img {
+    width: 50vw;
+    height: 50vh;
+    float: right;
+}

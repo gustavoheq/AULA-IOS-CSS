@@ -17,7 +17,7 @@ h1 {
 }
 
 .container img {
-    width: 200px;
+    width: 300px;
     float: right;
 }
 
@@ -31,10 +31,25 @@ h1 {
     padding: 10px;
     color: white;
     background-color: green;
+    float: left;
 }
 
 .p2 {
     padding: 10px;
     color: white;
     background-color: tomato;
+}
+
+.semclear {
+    background-color: rgb(0, 0, 0);
+    border: 3px dotted rgb(10, 116, 216);
+    color: white;
+    float: left;
+}
+
+.comclear {
+    background-color: black;
+    border: 3px dotted rgb(10, 116, 216);
+    color: white;
+    clear: left;
 }

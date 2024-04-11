@@ -1,0 +1,12 @@
+.elemento1 {
+    display: block;
+}
+.elemento2 {
+    display: inline;
+}
+.elemento3 {
+    display: inline-block;
+}
+.elemento4 {
+    display: none;
+}

@@ -1,17 +1,25 @@
-@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Whisper&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Whisper&display=swap');
 
 * {
     background-color: rgba(255, 255, 255, 0.918);
-    font-family: "Tilt Neon", sans-serif;
     color: rgb(0, 0, 0);
+    font-family: "Roboto", sans-serif;
     font-size: 20px;
 }
 
 h1 {
-    text-shadow: -5px -5px 5px rgb(124, 255, 124);
+    background-color:#4649E8;
+    text-shadow: -2px -2px 2px  rgb(19, 103, 228);
+    font-family: "Whisper", cursive;
     text-align: center;
-    color: green;
-    font-size: 40px;
+    font-size: 65px;
+    border-radius: 100px; 
+    width: 200px;
+    margin: auto;
+    padding: 10px;
+    color: #ffffff;
 
 }
 
@@ -22,8 +30,8 @@ img {
 
 
 .padaria {
-    background-color: green;
-    border: 5px solid rgb(0,0,0,);  
+    background-color: rgb(19, 221, 228);
+    border: 1px solid rgb(255, 255, 255);  
     border-radius: 100px; 
     margin: auto;
     display: block;
@@ -31,17 +39,25 @@ img {
 }
 
 nav, a {
-    text-shadow: -2px -2px 2px rgb(124, 255, 124);
-    background-color: rgb(255, 255, 255);
-    font-size: 40px;
-    color: rgb(0, 141, 31);
+    text-shadow: -2px -2px 2px  rgb(33, 19, 228);
     text-decoration: none;
     text-align: center;
-    padding: 2px;
+    font-size: 40px;
+    color:#19E4EA;
+    background-color: rgb(0, 0, 0);
+    border-radius: 100px; 
+    width: 500px;
+    margin: auto;
+    padding: 10px;
 }
 
 p {
-    text-shadow: -3px -3px 3px rgb(28, 228, 128);
     text-align: justify;
+    margin: auto;
+    height: 50px;
+}
+
+footer {
+    text-align: right;
     height: 50px;
 }

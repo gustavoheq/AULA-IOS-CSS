@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    --COR-PRIMARY: #731702;
+    --COR-SECONDARY: #F27405;
+    --COR-TERTIARY: #02735E;
+    --FONTE-TAMANHO: 1.5rem;
+}
+
+body {
+    background-color: var(--COR-SECONDARY);
+}
+
+h1 {
+    color: var(--COR-PRIMARY);
+}
+
+p {
+    font-size: var(--FONTE-TAMANHO);
+    color: var(--COR-TERTIARY);
+}

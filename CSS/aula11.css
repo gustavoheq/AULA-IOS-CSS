@@ -1,0 +1,34 @@
+.container {
+    /* overflow: auto; */
+    background-color: #e6e2de;
+    margin: 1px solid;
+    width: 600px;
+    height: 600px;
+    display: flex;
+    /* direction: ltr; */
+    /* flex-direction: row; */
+    /* flex-wrap: wrap; */
+    flex-flow: row nowrap;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.box {
+    margin: 5px;
+    border: 1px solid white;
+    font-size: 2em;
+    color: white;
+    width: 100px;
+    height: 100px;
+}
+.box1{
+    background-color: rgb(9, 122, 94);
+}
+
+.box2 {
+    background-color: rgb(240, 21, 13);
+}
+
+.box3 {
+    background-color: rgb(11, 127, 236);
+}

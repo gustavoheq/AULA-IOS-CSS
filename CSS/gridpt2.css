@@ -1,5 +1,7 @@
 .container {
-    display: grid ;
+    height: 50vh;
+    color: white;
+    display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(3, 1fr);
     gap: 5px;
@@ -7,21 +9,22 @@
     /* justify-items: center;
     align-items: center; */
 
-    place-items: start center;
-}
+    justify-content: space-between;
+    align-content: center;
+    place-content: space-between center;
+    place-items: start end;
 
-.box1 {
-    
-}
-
-.box2 {
 
 }
 
-.box3 {
-
+.box {
+    background-color: brown;
 }
 
-.box4 {
+.box1 {}
 
-}
+.box2 {}
+
+.box3 {}
+
+.box4 {}

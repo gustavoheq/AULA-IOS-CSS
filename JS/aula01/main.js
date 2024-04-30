@@ -18,5 +18,10 @@ let tipoPet = 'Cachorro'
 let idadePet = 5
 let RD = `Shih-Tzu`
 
-console.log("Olá, Mundo! ");
+console.log("Olá, ", mNome, "!Tudo bem?");
+console.log("Olá, ", + mNome);
 
+
+console.log(`Olá, ${mNome}! Tudo bem?`);
+console.log(`${mNome}tem ${idade +1} anos de idade.`);
+console.log(mNome, 'tem', idade, 'anos de idade.');
